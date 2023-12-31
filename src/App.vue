@@ -27,6 +27,7 @@
 
 <style scoped>
   #app-area {
+      justify-content: center;
       height: 100vh;
       /* background-color: rgb(64, 64, 64); */
       font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",

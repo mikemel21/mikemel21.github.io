@@ -32,7 +32,8 @@ github_username:  mikemel21
 
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: pages-themes/midnight
 plugins:
   - jekyll-feed
 

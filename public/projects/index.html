@@ -1,122 +1,158 @@
 <!DOCTYPE html>
-<html lang="en-us" class="m-auto dark"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <title>aafu theme</title>
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta name="theme-color" content="" />
-<meta charset="utf-8" />
-<meta content="width=device-width, initial-scale=1.0" name="viewport" />
-<meta name="description" content="Website title" />
-<meta name="author" content="Darshan Baral" />
-<meta name="generator" content="aafu theme by Darshan in Hugo 0.136.5" />
+    <style>
+        :root {
+            --accent-color: #FF4D4D;
+        }
+    </style>
 
-        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">        <link rel="manifest" href="/site.webmanifest">        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#252627">        <link rel="shortcut icon" href="/favicon.ico">
-  <link
-    rel="stylesheet"
-    href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"
-    integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu"
-    crossorigin="anonymous"
-  />
-  <link
-    rel="stylesheet"
-    href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"
-  />
-  <link
-    rel="stylesheet"
-    href="//fonts.googleapis.com/css?family=Didact+Gothic%7CRoboto:400%7CRoboto+Mono"
-  />  
+    
+    
+    
+    
+    
+    
 
-  
-  
+    
+    <title>Projects</title>
+    <meta name="description" content=" Capstone Castmaker (WIP) Automatic Podcast Generator
+Weather Web Application Test
+">
+    <meta name="keywords" content=''>
 
+    <meta property="og:url" content="//localhost:1313/projects/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Projects">
+    <meta property="og:description" content=" Capstone Castmaker (WIP) Automatic Podcast Generator
+Weather Web Application Test
+">
+    <meta property="og:image" content="//localhost:1313/images/avatar.png">
+    <meta property="og:image:secure_url" content="//localhost:1313/images/avatar.png">
 
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Projects">
+    <meta name="twitter:description" content=" Capstone Castmaker (WIP) Automatic Podcast Generator
+Weather Web Application Test
+">
+    <meta property="twitter:domain" content="//localhost:1313/projects/">
+    <meta property="twitter:url" content="//localhost:1313/projects/">
+    <meta name="twitter:image" content="//localhost:1313/images/avatar.png">
 
-  <link href="/main.css" rel="stylesheet" />
+    
+    <link rel="canonical" href="//localhost:1313/projects/">
 
-  <script>
-    let html = document.querySelector("html");
-    let theme = window.localStorage.getItem("theme");
-    if (theme) {
-      theme === "dark"
-        ? html.classList.add("dark")
-        : html.classList.remove("dark");
-    } else if (html.classList.contains("dark")) {
-      window.localStorage.setItem("theme", "dark");
-    } else {
-      html.classList.remove("dark");
-      window.localStorage.setItem("theme", "light");
-    }
+    
+    <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print">
 
-    window.onload = () => {
-      let themeToggle = document.querySelector(".theme-toggle");
-      if (window.localStorage.getItem("theme") === "dark") {
-        themeToggle.classList.remove("bi-moon-fill");
-        themeToggle.classList.add("bi-brightness-high");
-      } else {
-        themeToggle.classList.add("bi-moon-fill");
-        themeToggle.classList.remove("bi-brightness-high");
-      }
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.min.css">
 
-      let defaultActivePanel = document.querySelector(".accordion.active");
-      if (defaultActivePanel) {
-        defaultActivePanel.nextElementSibling.style.maxHeight =
-          defaultActivePanel.nextElementSibling.scrollHeight + "px";
-      }
-    };
+    
+    <link id="dark-theme" rel="stylesheet" href="/css/dark.min.css">
 
-    window.onresize = () => {
-      let defaultActivePanel = document.querySelector(".accordion.active");
-      if (defaultActivePanel) {
-        defaultActivePanel.nextElementSibling.style.maxHeight =
-          defaultActivePanel.nextElementSibling.scrollHeight + "px";
-      }
-    };
-  </script>
+    
+    <script src="/js/bundle.min.9a920d7dabdbad8363b6a0a94e29a9dfebdb7ee64cfcb193a0145e512ef2bdab.js" integrity="sha256-mpINfavbrYNjtqCpTimp3&#43;vbfuZM/LGToBReUS7yvas="></script>
+
+    
+    
 </head>
-<body class="h-screen p-2 m-auto max-w-4xl flex flex-col">
-    
-    <header
-  class="nav flex flex-row row py-2 mb-6 w-full border-b border-gray-300 dark:border-gray-700 justify-between"
->
-  <div>
-    <a class="no-underline p-2 rounded hover:bg-gray-200 dark:hover:bg-gray-800" href="//localhost:1313/">Home</a>    
-    <a class="no-underline p-2 rounded hover:bg-gray-200 dark:hover:bg-gray-800" href="/blog">Blog</a>
-  </div>
-  <div>
-  <a class="mr-4" href="/search"><i class="fas fa-search"></i></i></a>
-  <i
-    class="fas fa-sun theme-toggle text-blue-500 hover:text-blue-700 dark:text-yellow-300 dark:hover:text-yellow-500 cursor-pointer text-lg mr-9 sm:mr-0"
-    onclick="lightDark(this)"
-  ></i>
-</div>
+<body>
+        <script>
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="//localhost:1313/">
+                <img src='images/avatar.png' alt="avatar">
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="//localhost:1313/">Michael Melei</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="//localhost:1313/" > Home </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="//localhost:1313/about/" > About </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="//localhost:1313/projects/" > Projects </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="//localhost:1313/contact/" > Contact </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span class="sr-only dark-theme-toggle-screen-reader-target"></span>
+                <a role="switch">
+                    <span class="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span class="sr-only hamburger-menu-toggle-screen-reader-target">menu</span>
+                <a role="switch">
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="//localhost:1313/" > Home </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="//localhost:1313/about/" > About </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="//localhost:1313/projects/" > Projects </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="//localhost:1313/contact/" > Contact </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+                    <a role="switch">
+                        <span class="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
 </header>
-
-<script>
-  const lightDark = (el) => {
-    let html = document.querySelector("html");
-    if (html.classList.contains("dark")) {
-      html.classList.remove("dark");
-      el.classList.add("fa-moon");
-      el.classList.remove("fa-sun");
-      window.localStorage.setItem("theme", "light");
-    } else {
-      html.classList.add("dark");
-      el.classList.add("fa-sun");
-      el.classList.remove("fa-moon");
-      window.localStorage.setItem("theme", "dark");
-    }
-  };
-</script>
-
+<main id="content">
     
-    <main class="grow">
-<div class="prose prose-stone dark:prose-invert max-w-none">
-<div class="mb-3">
-  <h1 class="top-h1" style="font-size: 2.75em">Projects</h1>
-  <p class="mb-1">January 1, 0001</p>
-  <p>&mdash;</p>
-</div>
-<div class="content">
-  <div class="project-list">
+
+    <div class="post container">
+
+    <div class="post-header-section">
+        <h1>Projects</h1>
+    </div>
+
+    <div class="post-content">
+        <div class="project-list">
     
       <div class="project-item">
         <h2><a href="//localhost:1313/projects/capstone/">Capstone Castmaker (WIP)</a></h2>
@@ -130,49 +166,27 @@
     
   </div>
 
-</div>
-</div>
-<div class="flex flex-row justify-around my-2">
-  <h3 class="mb-1 mt-1 text-left mr-4">
+    </div>
     
-    <a
-      href="//localhost:1313/projects/weather-app/"
-      title="Weather Web Application"
-    >
-      <i class="nav-menu fas fa-chevron-circle-left"></i>
-    </a>
     
-  </h3>
-  <h3 class="mb-1 mt-1 text-left ml-4">
-    
-    <a
-      href="//localhost:1313/contact/"
-      title="Contact"
-    >
-      <i class="nav-menu fas fa-chevron-circle-right"></i>
-    </a>
-    
-  </h3>
 </div>
 
 
-    </main>
+
+
+        </main><footer class="footer">
     
-    <footer class="text-sm text-center border-t border-gray-300 dark:border-gray-700  py-6 ">
-  <p class="markdownify">powered by <a href="https://gohugo.io/">hugo</a> &amp; deployed on <a href="https://www.cloudflare.com/">Cloudflare</a></p>
-  <p >
-    <i>
-      <a href="https://github.com/darshanbaral/aafu">
-        aafu
-      </a>
-    </i>
-    by
-    <a href="https://www.darshanbaral.com/">
-      darshan
-    </a>
-  </p>
+    
+
+    
+
+    
+
+    
+
+    <span>
+        Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a>
+    </span>
 </footer>
-
-    
-  </body>
+</body>
 </html>

@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Michael Melei'
-theme = 'terminal'
+theme = 'aafu'
 
 [params]
 # contentTypeName = "posts"

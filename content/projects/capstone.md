@@ -1,4 +1,7 @@
 ---
 title: Capstone Castmaker (WIP)
-description: Automatic Podcast Generator
+description: AI-Powered Podcast Generator.
 ---
+**Language:** Python\
+**Tools:** BeautifulSoup, OpenAI, ElevenLabs, PyDub\
+**Skills:**: a

@@ -41,7 +41,14 @@
       <link>//localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/projects/</guid>
-      <description>&lt;div class=&#34;project-list&#34;&gt;&#xA;    &#xA;      &lt;div class=&#34;project-item&#34;&gt;&#xA;        &lt;h2&gt;&lt;a href=&#34;//localhost:1313/projects/capstone/&#34;&gt;Capstone Castmaker (WIP)&lt;/a&gt;&lt;/h2&gt;&#xA;        &lt;p&gt;Automatic Podcast Generator&lt;/p&gt;&#xA;      &lt;/div&gt;&#xA;    &#xA;      &lt;div class=&#34;project-item&#34;&gt;&#xA;        &lt;h2&gt;&lt;a href=&#34;//localhost:1313/projects/weather-app/&#34;&gt;Weather Web Application&lt;/a&gt;&lt;/h2&gt;&#xA;        &lt;p&gt;Test&lt;/p&gt;&#xA;      &lt;/div&gt;&#xA;    &#xA;  &lt;/div&gt;</description>
+      <description>&lt;div class=&#34;project-list&#34;&gt;&#xA;    &#xA;      &lt;div class=&#34;project-item&#34;&gt;&#xA;        &lt;h2&gt;&lt;a href=&#34;//localhost:1313/projects/capstone/&#34;&gt;Capstone Castmaker (WIP)&lt;/a&gt;&lt;/h2&gt;&#xA;        &lt;p&gt;Automatic Podcast Generator&lt;/p&gt;&#xA;      &lt;/div&gt;&#xA;    &#xA;      &lt;div class=&#34;project-item&#34;&gt;&#xA;        &lt;h2&gt;&lt;a href=&#34;//localhost:1313/projects/stroke-data-mining/&#34;&gt;Stroke Data Analysis and Prediction Application&lt;/a&gt;&lt;/h2&gt;&#xA;        &lt;p&gt;Developed an interactive web application to perform data mining and predictive analysis on a dataset of stroke information&lt;/p&gt;&#xA;      &lt;/div&gt;&#xA;    &#xA;      &lt;div class=&#34;project-item&#34;&gt;&#xA;        &lt;h2&gt;&lt;a href=&#34;//localhost:1313/projects/weather-app/&#34;&gt;Weather Web Application&lt;/a&gt;&lt;/h2&gt;&#xA;        &lt;p&gt;Test&lt;/p&gt;&#xA;      &lt;/div&gt;&#xA;    &#xA;  &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Stroke Data Analysis and Prediction Application</title>
+      <link>//localhost:1313/projects/stroke-data-mining/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/stroke-data-mining/</guid>
+      <description></description>
     </item>
     <item>
       <title>Weather Web Application</title>

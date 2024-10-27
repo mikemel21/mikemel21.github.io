@@ -18,7 +18,7 @@ socialIcons = [
     {name = "github", url="https://github.com/mikemel21"},
     {name = "email", url="mailto:michael@meleitech.net"}
 ]
-avatarURL = "images/avatar.png"
+avatarURL = "/images/avatar.png"
 
 # menu settings
 [menu]

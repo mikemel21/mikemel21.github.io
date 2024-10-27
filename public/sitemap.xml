@@ -17,6 +17,8 @@
   </url><url>
     <loc>//localhost:1313/projects/</loc>
   </url><url>
+    <loc>//localhost:1313/projects/stroke-data-mining/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url><url>
     <loc>//localhost:1313/projects/weather-app/</loc>

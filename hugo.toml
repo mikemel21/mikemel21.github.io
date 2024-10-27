@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Michael Melei'
+theme = 'terminal'
+
+[params]
+# Change them to be full width
+# fullWidthTheme = true
+centerTheme = true

@@ -12,7 +12,7 @@ theme = 'gokarna'
 centerTheme = true
 
 # gokarna theme settings
-description="Hi! Welcome to my Site!"
+description="Software Engineer"
 socialIcons = [
     {name = "linkedin", url="https://www.linkedin.com/in/michael-melei/"},
     {name = "github", url="https://github.com/mikemel21"},

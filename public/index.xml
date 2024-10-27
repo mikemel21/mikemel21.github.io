@@ -2,9 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Melei</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Michael Melei</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Capstone Castmaker (WIP)</title>
+      <link>//localhost:1313/projects/capstone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/capstone/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/contact/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/</guid>
+      <description>&lt;div class=&#34;project-list&#34;&gt;
+    
+      &lt;div class=&#34;project-item&#34;&gt;
+        &lt;h2&gt;&lt;a href=&#34;//localhost:1313/projects/capstone/&#34;&gt;Capstone Castmaker (WIP)&lt;/a&gt;&lt;/h2&gt;
+        &lt;p&gt;Automatic Podcast Generator&lt;/p&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&#34;project-item&#34;&gt;
+        &lt;h2&gt;&lt;a href=&#34;//localhost:1313/projects/weather-app/&#34;&gt;Weather Web Application&lt;/a&gt;&lt;/h2&gt;
+        &lt;p&gt;Test&lt;/p&gt;
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <content>&lt;div class=&#34;project-list&#34;&gt;
+    
+      &lt;div class=&#34;project-item&#34;&gt;
+        &lt;h2&gt;&lt;a href=&#34;//localhost:1313/projects/capstone/&#34;&gt;Capstone Castmaker (WIP)&lt;/a&gt;&lt;/h2&gt;
+        &lt;p&gt;Automatic Podcast Generator&lt;/p&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&#34;project-item&#34;&gt;
+        &lt;h2&gt;&lt;a href=&#34;//localhost:1313/projects/weather-app/&#34;&gt;Weather Web Application&lt;/a&gt;&lt;/h2&gt;
+        &lt;p&gt;Test&lt;/p&gt;
+      &lt;/div&gt;
+    
+  &lt;/div&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Weather Web Application</title>
+      <link>//localhost:1313/projects/weather-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/projects/weather-app/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
   </channel>
 </rss>

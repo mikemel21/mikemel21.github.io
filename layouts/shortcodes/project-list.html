@@ -1,0 +1,8 @@
+<div class="project-list">
+    {{ range where .Site.RegularPages "Section" "projects" }}
+      <div class="project-item">
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Params.description }}</p>
+      </div>
+    {{ end }}
+  </div>

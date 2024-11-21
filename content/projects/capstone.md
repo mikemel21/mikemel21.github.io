@@ -5,4 +5,4 @@ github:
 ---
 **Language:** Python\
 **Tools:** BeautifulSoup, OpenAI, ElevenLabs, PyDub\
-**Skills:**: a
+**Skills:** Backend development, LLMs, python\ 

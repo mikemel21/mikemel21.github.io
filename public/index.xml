@@ -6,7 +6,15 @@
     <description>Recent content in Home on Michael Melei</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 27 Oct 2024 14:31:14 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>//localhost:1313/blog/</link>
+      <pubDate>Sun, 27 Oct 2024 14:31:14 -0400</pubDate>
+      <guid>//localhost:1313/blog/</guid>
+      <description></description>
+    </item>
     <item>
       <title></title>
       <link>//localhost:1313/index-about/</link>
@@ -15,18 +23,18 @@
       <description>&lt;p&gt;Where code meets creativity: I&amp;rsquo;m a tech enthusiast who blends modern software engineering with diverse passions ranging from bagpiping to powerlifting.&#xA;Currently crafting innovative solutions like CastMaker, an AI-powered podcast generator, while maintaining a 3.7 GPA at Grand Valley State University.&lt;/p&gt;&#xA;&lt;p&gt;Python specialist with hands-on experience in AI integration, data mining, and full-stack development. Let&amp;rsquo;s build something extraordinary together.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>(WIP) Capstone Castmaker</title>
+      <link>//localhost:1313/projects/capstone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/capstone/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Language:&lt;/strong&gt; Python&lt;br&gt;&#xA;&lt;strong&gt;Tools:&lt;/strong&gt; BeautifulSoup, OpenAI, ElevenLabs, PyDub&lt;br&gt;&#xA;&lt;strong&gt;Skills:&lt;/strong&gt;: a&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About Me</title>
       <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/about/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Capstone Castmaker (WIP)</title>
-      <link>//localhost:1313/projects/capstone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/capstone/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Language:&lt;/strong&gt; Python&lt;br&gt;&#xA;&lt;strong&gt;Tools:&lt;/strong&gt; BeautifulSoup, OpenAI, ElevenLabs, PyDub&lt;br&gt;&#xA;&lt;strong&gt;Skills:&lt;/strong&gt;: a&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
@@ -40,7 +48,7 @@
       <link>//localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/projects/</guid>
-      <description>&lt;div class=&#34;project-list&#34;&gt;&#xA;  &#xA;    &lt;div class=&#34;project-item&#34;&gt;&#xA;      &lt;h2&gt;&lt;a href=&#34;//localhost:1313/projects/capstone/&#34;&gt;Capstone Castmaker (WIP)&lt;/a&gt;&lt;/h2&gt;&#xA;      &lt;p&gt;AI-Powered Podcast Generator.&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;project-content&#34;&gt;&#xA;      &lt;p&gt;&lt;strong&gt;Language:&lt;/strong&gt; Python&lt;br&gt;&#xA;&lt;strong&gt;Tools:&lt;/strong&gt; BeautifulSoup, OpenAI, ElevenLabs, PyDub&lt;br&gt;&#xA;&lt;strong&gt;Skills:&lt;/strong&gt;: a&lt;/p&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;    &lt;hr&gt;&#xA;  &#xA;    &lt;div class=&#34;project-item&#34;&gt;&#xA;      &lt;h2&gt;&lt;a href=&#34;//localhost:1313/projects/stroke-data-mining/&#34;&gt;Stroke Data Analysis and Prediction Application&lt;/a&gt;&lt;/h2&gt;&#xA;      &lt;p&gt;Developed an interactive web application to perform data mining and predictive analysis on a dataset of stroke information&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;project-content&#34;&gt;&#xA;      &lt;p&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;br&gt;&#xA;&lt;strong&gt;Tools&lt;/strong&gt;: Streamlit, SciKit-Learn, MatPlotLib&lt;br&gt;&#xA;&lt;strong&gt;Skills&lt;/strong&gt;: Data Science, Python&lt;/p&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;    &lt;hr&gt;&#xA;  &#xA;    &lt;div class=&#34;project-item&#34;&gt;&#xA;      &lt;h2&gt;&lt;a href=&#34;//localhost:1313/projects/weather-app/&#34;&gt;Weather Web Application&lt;/a&gt;&lt;/h2&gt;&#xA;      &lt;p&gt;Worked in a group with two other students to create a weather web app that allows users to create an account, view weather information for a location, favorite locations, and view news articles.&lt;/p&gt;</description>
+      <description>&lt;div class=&#34;project-list&#34;&gt;&#xA;  &#xA;    &lt;div class=&#34;project-item&#34;&gt;&#xA;      &lt;h2&gt;&lt;a href=&#34;&#34;&gt;(WIP) Capstone Castmaker&lt;/a&gt;&lt;/h2&gt;&#xA;      &lt;p&gt;AI-Powered Podcast Generator.&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;project-content&#34;&gt;&#xA;      &lt;p&gt;&lt;strong&gt;Language:&lt;/strong&gt; Python&lt;br&gt;&#xA;&lt;strong&gt;Tools:&lt;/strong&gt; BeautifulSoup, OpenAI, ElevenLabs, PyDub&lt;br&gt;&#xA;&lt;strong&gt;Skills:&lt;/strong&gt;: a&lt;/p&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;    &lt;hr&gt;&#xA;  &#xA;    &lt;div class=&#34;project-item&#34;&gt;&#xA;      &lt;h2&gt;&lt;a href=&#34;https://github.com/mikemel21/CIS352-Final-Project&#34;&gt;Stroke Data Analysis and Prediction Application&lt;/a&gt;&lt;/h2&gt;&#xA;      &lt;p&gt;Developed an interactive web application to perform data mining and predictive analysis on a dataset of stroke information&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;project-content&#34;&gt;&#xA;      &lt;p&gt;&lt;strong&gt;Language&lt;/strong&gt;: Python&lt;br&gt;&#xA;&lt;strong&gt;Tools&lt;/strong&gt;: Streamlit, SciKit-Learn, MatPlotLib&lt;br&gt;&#xA;&lt;strong&gt;Skills&lt;/strong&gt;: Data Science, Python&lt;/p&gt;&#xA;&#xA;    &lt;/div&gt;&#xA;    &lt;hr&gt;&#xA;  &#xA;    &lt;div class=&#34;project-item&#34;&gt;&#xA;      &lt;h2&gt;&lt;a href=&#34;https://github.com/mikemel21/Weather-App&#34;&gt;Weather Web Application&lt;/a&gt;&lt;/h2&gt;&#xA;      &lt;p&gt;Worked in a group with two other students to create a weather web app that allows users to create an account, view weather information for a location, favorite locations, and view news articles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stroke Data Analysis and Prediction Application</title>

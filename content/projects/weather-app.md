@@ -1,6 +1,7 @@
 ---
 title: Weather Web Application
 description: Worked in a group with two other students to create a weather web app that allows users to create an account, view weather information for a location, favorite locations, and view news articles.
+github: https://github.com/mikemel21/Weather-App
 ---
 **Language**: Typescript\
 **Tools**: VueJS, Firebase, WeatherAPI, Vercel, Node\
